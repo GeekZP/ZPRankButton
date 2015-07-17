@@ -39,3 +39,5 @@ typedef enum : NSUInteger {
 //以图片为基准,设置图片距离边缘的位置
 
 @property (nonatomic,assign) NSInteger picToViewRange;
+
+![image](https://github.com/GeekZP/ZPRankButton/blob/master/效果图.png)
